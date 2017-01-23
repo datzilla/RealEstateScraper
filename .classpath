@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/c3p0-0.9.5.2.jar"/>
+	<classpathentry kind="lib" path="lib/c3p0-oracle-thin-extras-0.9.5.2.jar"/>
+	<classpathentry kind="lib" path="lib/commons-dbcp2-2.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/jsoup-1.8.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/jsoup-1.8.1-sources.jar"/>
+	<classpathentry kind="lib" path="lib/jsoup-1.8.1.jar"/>
+	<classpathentry kind="lib" path="lib/mchange-commons-java-0.2.11.jar"/>
+	<classpathentry kind="lib" path="lib/sqlite-jdbc-3.8.11.2.jar"/>
+	<classpathentry kind="lib" path="lib/xstream-1.4.8.jar"/>
+	<classpathentry kind="lib" path="/OutputManager/lib/common/hadoop-common-2.7.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
